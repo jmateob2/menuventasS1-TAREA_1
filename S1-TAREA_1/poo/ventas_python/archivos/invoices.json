@@ -1,0 +1,64 @@
+[
+    {
+        "factura": 1,
+        "Fecha": "2024-04-29",
+        "cliente": "Ado Flores",
+        "subtotal": 241.5,
+        "descuento": 24.15,
+        "iva": 26.08,
+        "total": 243.43,
+        "detalle": [
+            {
+                "poducto": "Coca Cola",
+                "precio": 1.5,
+                "cantidad": 30
+            },
+            {
+                "poducto": "Mortadela",
+                "precio": 2.75,
+                "cantidad": 60
+            },
+            {
+                "poducto": "Coca Cola",
+                "precio": 1.5,
+                "cantidad": 5
+            },
+            {
+                "poducto": "aceite",
+                "precio": 3.0,
+                "cantidad": 8
+            }
+        ]
+    },
+    {
+        "factura": 2,
+        "Fecha": "2024-05-01",
+        "cliente": "Jean Torres",
+        "subtotal": 75.67,
+        "descuento": 7.57,
+        "iva": 8.17,
+        "total": 76.28,
+        "detalle": [
+            {
+                "poducto": "Pollo",
+                "precio": 1.9,
+                "cantidad": 8
+            },
+            {
+                "poducto": "Pepsi",
+                "precio": 1.5,
+                "cantidad": 2
+            },
+            {
+                "poducto": "Chocolate",
+                "precio": 9.99,
+                "cantidad": 3
+            },
+            {
+                "poducto": "Mortadela",
+                "precio": 2.75,
+                "cantidad": 10
+            }
+        ]
+    }
+]

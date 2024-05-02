@@ -1,0 +1,32 @@
+[
+    {
+        "dni": "1234567890",
+        "nombre": "Daniel",
+        "apellido": "Vera",
+        "valor": 0.1
+    },
+    {
+        "dni": "0914192144",
+        "nombre": "Dayanna",
+        "apellido": "Vera",
+        "valor": 10000
+    },
+    {
+        "dni": "9876543210",
+        "nombre": "Jean",
+        "apellido": "Flores",
+        "valor": 0.1
+    },
+    {
+        "dni": "9999999999",
+        "nombre": "Ado",
+        "apellido": "Flores",
+        "valor": 10000
+    },
+    {
+        "dni": "0985402227",
+        "nombre": "Jean",
+        "apellido": "Torres",
+        "valor": 0.1
+    }
+]

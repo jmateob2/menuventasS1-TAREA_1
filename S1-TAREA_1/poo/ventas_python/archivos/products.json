@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "descripcion": "Mortadela",
+        "precio": 2.75,
+        "stock": 600
+    },
+    {
+        "id": 2,
+        "descripcion": "Pepsi",
+        "precio": 1.5,
+        "stock": 500
+    },
+    {
+        "id": 3,
+        "descripcion": "Queso",
+        "precio": 9.0,
+        "stock": 1000
+    },
+    {
+        "id": 4,
+        "descripcion": "Pollo",
+        "precio": 1.9,
+        "stock": 80
+    },
+    {
+        "id": 5,
+        "descripcion": "Chocolate",
+        "precio": 9.99,
+        "stock": "100"
+    }
+]
